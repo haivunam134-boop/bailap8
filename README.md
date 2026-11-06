@@ -1,50 +1,37 @@
-Portfolio CV - Vũ Nam Hải
-Trang portfolio cá nhân giới thiệu tác giả, kỹ năng, dự án, quá trình học tập và thông tin liên hệ. Sản phẩm là website tĩnh được xây dựng bằng HTML và CSS.
+# 🌐 Portfolio CV - Vũ Nam Hải
 
-Liên kết
-Tác giả: Vũ Nam Hải
-Hồ sơ GitHub: https://github.com/haivunam134-boop
-Mã nguồn: https://github.com/haivunam134-boop/vunamhaibaikiemtraA2.22
-Trang GitHub Pages: https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/
-Trang kết quả form: https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/ket-qua.html
-Cấu trúc dự án
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+Trang Portfolio cá nhân giới thiệu tác giả, kỹ năng chuyên môn, các dự án thực hiện, quá trình học tập và thông tin liên hệ. Sản phẩm là website tĩnh được xây dựng hoàn toàn bằng **HTML5** và **CSS3** chuẩn responsive.
+
+---
+
+## 🔗 Liên Kết (Links)
+
+* **👤 Tác giả:** Vũ Nam Hải
+* **🐙 Hồ sơ GitHub:** [haivunam134-boop](https://github.com/haivunam134-boop)
+* **📦 Mã nguồn dự án:** [vunamhaibaikiemtraA2.22](https://github.com/haivunam134-boop/vunamhaibaikiemtraA2.22)
+* **🚀 Live Demo (Trang chủ):** [Portfolio Vũ Nam Hải](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/)
+* **📄 Live Demo (Trang kết quả Form):** [Kết quả gửi Form](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/ket-qua.html)
+
+---
+
+## 📂 Cấu Trúc Dự Án (Project Structure)
+
+```text
 .
-├── index.html       # Portfolio và form liên hệ
-├── ket-qua.html     # Trang kết quả sau khi gửi form
+├── index.html       # Portfolio chính và form liên hệ
+├── ket-qua.html     # Trang hiển thị kết quả sau khi gửi form
 ├── css/
-│   └── style.css    # Giao diện và responsive
+│   └── style.css    # Quy định giao diện, màu sắc và Responsive
 ├── assets/
 │   ├── avatar.svg
 │   ├── du-an-1.svg
 │   ├── du-an-2.svg
 │   ├── du-an-3.svg
 │   └── ronaldo-qua-bong-vang-vi-dai-nhat-moi-thoi-dai (1).webp
-├── AI_LOG.md        # Nhật ký sử dụng AI và quyết định
+├── AI_LOG.md        # Nhật ký sử dụng AI và các quyết định phát triển
 └── RELEASE_NOTES.md # Ghi chú bàn giao phiên bản v7
-Chạy trên máy cá nhân
-Đây là website tĩnh, không cần cài thư viện hay biên dịch.
-
-Tải hoặc clone repository về máy.
-
-Mở thư mục dự án bằng VS Code.
-
-Mở index.html trong trình duyệt. Nếu muốn chạy qua máy chủ local, mở terminal tại thư mục dự án và chạy:
-
-python -m http.server 8000
-Truy cập http://localhost:8000. Dừng máy chủ bằng Ctrl+C.
-
-Nguồn xuất bản
-Website được xuất bản bằng GitHub Pages từ repository ở trên. Đây là dự án HTML tĩnh; không có bước build. Mã nguồn hiện nằm ở nhánh main. Có thể xem hoặc điều chỉnh nguồn xuất bản trong Settings → Pages của repository.
-
-Cách kiểm tra
-Mở trang chủ và kiểm tra phần Giới thiệu, Kỹ năng, Dự án, Học tập và Liên hệ. Các mục trên thanh điều hướng đưa tới từng phần tương ứng.
-Kiểm tra ảnh đại diện và ba ảnh minh họa dự án hiển thị; thu nhỏ cửa sổ hoặc mở trên điện thoại để xem bố cục responsive.
-Trong form liên hệ, thử gửi form trống hoặc email sai định dạng để thấy kiểm tra dữ liệu HTML5. Sau đó nhập họ tên, email hợp lệ và lời nhắn từ 10 đến 500 ký tự rồi gửi để mở ket-qua.html.
-Form chỉ phục vụ thực hành: dữ liệu được gửi bằng phương thức GET và có thể xuất hiện trên URL; form không gửi email và không lưu dữ liệu lên máy chủ. Không nhập thông tin nhạy cảm khi thử.
-Mã nguồn và minh chứng
-Mã nguồn trang portfolio (index.html)
-Mã nguồn trang kết quả (ket-qua.html)
-Trang portfolio đã xuất bản
-Trang kết quả đã xuất bản
-Ghi chú kiểm tra trong repository (AI_LOG.md)
-Release notes bàn giao v7 (RELEASE_NOTES.md)
