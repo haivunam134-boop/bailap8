@@ -13,7 +13,7 @@ Trang Portfolio cá nhân giới thiệu tác giả, kỹ năng chuyên môn, c�
 
 * **👤 Tác giả:** Vũ Nam Hải
 * **🐙 Hồ sơ GitHub:** [haivunam134-boop](https://github.com/haivunam134-boop)
-* **📦 Mã nguồn dự án:** [[vunamhaibaikiemtraA2.22](https://github.com/haivunam134-boop/vunamhaibaikiemtraA2.22)](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/)
+* **📦 Mã nguồn dự án:** (https://github.com/haivunam134-boop/vunamhaibaikiemtraA2.22)](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/)
 * **🚀 Live Demo (Trang chủ):** [Portfolio Vũ Nam Hải](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/)
 * **📄 Live Demo (Trang kết quả Form):** [Kết quả gửi Form](https://haivunam134-boop.github.io/vunamhaibaikiemtraA2.22/ket-qua.html)
 
